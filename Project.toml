@@ -3,6 +3,11 @@ uuid = "8b6177d4-baca-44ee-a0fb-9570f97f30e9"
 authors = ["Kim Louisa Auth <auth@chalmers.se> and contributors"]
 version = "1.0.0-DEV"
 
+[deps]
+BlockArrays = "8e7c35d0-a365-5155-bbbb-fb81a777f24e"
+Ferrite = "c061ca5d-56c9-439f-9c0e-210fe06d3992"
+Tensors = "48a634ad-e948-5137-8d70-aa71f2a747f4"
+
 [compat]
 julia = "1.7"
 
